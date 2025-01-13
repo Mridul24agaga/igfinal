@@ -73,10 +73,10 @@ export default function ReportPage() {
             <div className="col-span-full bg-gray-50/80 border border-gray-200 rounded-lg p-4">
               <div className="flex items-start justify-between">
                 <div>
-                  <h3 className="font-bold text-lg mb-2">AI Answering Service</h3>
+                  <h3 className="font-bold text-lg mb-2">careercomps</h3>
                 </div>
                 <a 
-                  href="https://aiansweringservice.io/"
+                  href="https://www.careercomps.io/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-black"
